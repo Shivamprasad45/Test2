@@ -1,5 +1,13 @@
 {
+  "name": "your-package-name",
+  "version": "1.0.0",
   "dependencies": {
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "yarn": "^1.22.22"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+   
   }
 }
